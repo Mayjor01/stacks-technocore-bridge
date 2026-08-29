@@ -1,0 +1,9 @@
+identity.pem
+identity_passphrase.txt
+.venv/
+__pycache__/
+*.pyc
+bridge_state.json
+bridge_receipts.json
+bridge_proof.json
+.env
